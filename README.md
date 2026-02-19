@@ -72,7 +72,7 @@ Based on the model's findings, the following actions are recommended:
 
 1. **Clone the Repository:**
 ```bash
-git clone https://github.com/your-username/telco-churn-prediction.git
+git clone https://github.com/kevinyegon1/telco-churn-prediction.git
 
 
 License
